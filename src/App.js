@@ -1,3 +1,6 @@
+//а с хуев ниче не дописано алкашня???
+
+
 import React, {useMemo, useRef, useState} from "react";
 import Counter from "./components/Counter";
 import ClassCounter from "./components/ClassCounter";
